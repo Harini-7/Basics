@@ -1,6 +1,7 @@
 public class EvenNumbers {
     public static void main(String[] args) {
         int n = 20; // Change this value to adjust the range of even numbers
+        System.out.println("Hello");
 
         System.out.println("Even numbers from 1 to " + n + ":");
 
